@@ -1,1 +1,3 @@
-# Hello, world!gig
+# Hello, world!
+
+I study in Netology
