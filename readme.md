@@ -14,5 +14,3 @@ I study in Netology
   color: red;
 }
 ```
-
-</details>
